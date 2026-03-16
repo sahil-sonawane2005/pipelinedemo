@@ -1,1 +1,1 @@
-this repo was for 
+this repo was for devops practical
